@@ -121,8 +121,3 @@ The actual evaluation scores depend on the training run and environment.
 - Save the trained model for future predictions.
 - Create an interface for classifying new data points.
 
-## Author
-
-**Your Name**
-
-*An educational project demonstrating ANN-based binary classification using TensorFlow and Keras.*
